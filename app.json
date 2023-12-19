@@ -19,7 +19,7 @@
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "84a5daf7ac334a70b3fbd180616a76c6"",
+        "value": "84a5daf7ac334a70b3fbd180616a76c6",
         "required": true
       },
       "BOT_TOKEN": {
