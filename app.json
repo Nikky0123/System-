@@ -1,12 +1,12 @@
 {
-    "name": "Doremoon",
+    "name": "Elena",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/b8a0c1a00db3e57522b53.jpg",
     "keywords": [
     "python3",
     "telegram",
     "bot",
-    "AnonXMusic",
+    "AnonX",
     "MusicBot",
     "telegram-bot",
     "pyrogram"
@@ -24,12 +24,12 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "6498149094:AAF-0VTaLQOrHw4dfQTwn84rJfbVrIJhadk",
+        "value": "5787499426:AAEh3awNA9XE5syrFaNxb71dJk6Weiv99C4",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://setade1268:umeOetByhdXOEBXY@cluster0.34cuhf7.mongodb.net/?retryWrites=true&w=majority",
+        "value": "mongodb+srv://Rawat04:Rawat0056@cluster0.vgtr5qa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
         "required": true
       },
       "OWNER_ID": {
@@ -39,22 +39,22 @@
       },
       "STRING_SESSION": {
         "description": "A Pyrogram v2 String Session from @StringFatherBot on Telegram.",
-        "value": "AQDD1ysArOZGglsQpD3VEfGgAQE8EmxhHXXNZo-WzMoEFmy0IzeOfLdSx4BN_0Six6RYR2jM9HQJRcmNFOq524SZbbBe0m56_1JpZXki3yP5NT0E7M4YQUFsV9XDuciifWhRRQE7aDubwgaexa_q2t-MQ_Da22DUO_ODdnTpj7gPthUaNKQ971TwRaIo7k_cvcczARJGfj-uQdqj4JSTqd24CsjXOmSx-uNFyzJzrU9yuyDfCcyButtCiAOuL4V_P-O1110RsMkokWoGJKzkRFhHAWc0ceuZODqH7zHllU0H2YSi3lsQV5LkojCfaDnrkmxv5EVTdURjqvC7UKlz5Jy0ASCTDwAAAAF71k1rAA",
+        "value": "AQDD1ysAxNeaOttHs7W_WBd5dXeY0PcgmIpG1vAKkexrnXk2j9a1_gY39Wb-wpdmoCYsD6PDGbK6mlgBxF0DMy0xKoKeNhb4lC5pJ2sG4rlu2RDnv_-UfIjNSxPrkRYsEr3j3R9KT6lo5g_jw6F84rwzDX-PYf3H2WrZIFszFCEpNxqOXSqRc7n4LDOrX_50YoFk1Bju4Fga14azcYpE6qzJkOkQjrqNcmlOvjttYqLPGNkwGpuQvpdpfUgFZ93O2nGVl4ex9_aK-RhlGDDiiLHv8yaMtHA-hQEjc717UoMSlhMJQHpfMU4G2fi0okdwt1Kv8K-wvdzPYSsiTpYweaeX3AuUQwAAAAEr0I8oAA",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-6ac7e1d1-dc7f-4c33-b2fe-1425861ff0db",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "elenav2",
         "required": false
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1001815554788",
+        "value": "-1001721819886",
         "required": true
       }
     },
@@ -70,4 +70,4 @@
           }
       ],
       "stack": "container"
-  }
+}
